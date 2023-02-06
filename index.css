@@ -1,0 +1,15 @@
+.mainContainer {
+    width: 80%;
+    margin: auto;
+    /* background-color: #2e2e2e; */
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+}
+
+iframe{
+    width:100%;
+}
